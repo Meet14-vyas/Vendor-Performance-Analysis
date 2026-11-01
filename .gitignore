@@ -1,0 +1,21 @@
+# Raw data (Kaggle pe hai)
+data/
+*.zip
+
+# Database
+inventory.db
+*.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Logs
+logs/
+
+# Chhoti summary CSV allow karo
+*.csv
+!vendor_sales_summary.csv
